@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1577030328 source:e:\tsp\naivebayesclassifier\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<vector>
+	<fstream>
+	<array>
+	<map>
+	<ctime>
+	<algorithm>
+
