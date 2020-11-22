@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1574020424 source:e:\tsp\tsp\main.cpp
+	<iostream>
+	<vector>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+	<set>
+	<cmath>
+
+1574020424 source:c:\users\Богдан\desktop\ai\tsp\main.cpp
+	<iostream>
+	<vector>
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+	<set>
+	<cmath>
+
