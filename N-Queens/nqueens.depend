@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1572811775 source:c:\users\bogdan\desktop\nqueens\main.cpp
+	<iostream>
+	<cstdlib>
+	"Board.h"
+
+1572713450 source:c:\users\bogdan\desktop\nqueens\src\board.cpp
+	"Board.h"
+
+1572810890 c:\users\bogdan\desktop\nqueens\include\board.h
+	<iostream>
+	<ctime>
+	<vector>
+
