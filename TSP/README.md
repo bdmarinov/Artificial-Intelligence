@@ -1,1 +1,1 @@
-Travelling Salesman Problem solved using Genetic algorithm
+C++ Solution to the Travelling Salesman Problem, using Genetic algorithm.
